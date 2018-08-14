@@ -1,0 +1,10 @@
+OWASP TOP SECURITY THREATS
+  Injection Attacks
+  Broken Authentication
+  Sensitive Data Exposure
+  XML Entities
+  Broken Access Control
+
+JWT.io: STANDARD TO TRANSMIT SECURE JSON
+  Consists of Header/Payload/Signature
+  
